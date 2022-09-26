@@ -8,9 +8,9 @@ RHYA.OpenVPNClient
 </br>
 * [회원가입 바로 가기](https://rhya-network.kro.kr/RhyaNetwork/webpage/jsp/auth.v1/sign_up.jsp?rpid=12&ctoken=0)
 </br>
-**Step2. 관리자에게 OpenVPN 사용 승인을 요청한다.
+**Step2. 관리자에게 OpenVPN 사용 승인을 요청한다.**
 </br>
-**Step3. 승인이 완료되면 해당 계정으로 로그인을 진행한다.
+**Step3. 승인이 완료되면 해당 계정으로 로그인을 진행한다.**
 
 ## License
 MIT License
