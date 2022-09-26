@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNlhKFAIvXjpPzqaSVRE1CN7pEKp+K4CLec/C9C4WcAAubvFb/gqkz32n+WwKht/2Rsne8kEsVNvfUt6pAldOw==",
+  "success": true,
+  "projectFilePath": "A:\\OpenVPN\\OpenVPNClient\\OpenVPNClient\\OpenVPNClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ji055\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

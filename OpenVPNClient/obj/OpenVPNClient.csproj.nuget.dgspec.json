@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\OpenVPN\\OpenVPNClient\\OpenVPNClient\\OpenVPNClient.csproj": {}
+  },
+  "projects": {
+    "A:\\OpenVPN\\OpenVPNClient\\OpenVPNClient\\OpenVPNClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\OpenVPN\\OpenVPNClient\\OpenVPNClient\\OpenVPNClient.csproj",
+        "projectName": "OpenVPNClient",
+        "projectPath": "A:\\OpenVPN\\OpenVPNClient\\OpenVPNClient\\OpenVPNClient.csproj",
+        "packagesPath": "C:\\Users\\ji055\\.nuget\\packages\\",
+        "outputPath": "A:\\OpenVPN\\OpenVPNClient\\OpenVPNClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ji055\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

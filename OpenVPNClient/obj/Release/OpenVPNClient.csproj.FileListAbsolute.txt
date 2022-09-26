@@ -1,0 +1,8 @@
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\bin\Release\OpenVPNClient.exe.config
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\bin\Release\OpenVPNClient.exe
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\bin\Release\OpenVPNClient.pdb
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\bin\Release\Newtonsoft.Json.dll
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\obj\Release\OpenVPNClient.csproj.CoreCompileInputs.cache
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\obj\Release\OpenVPNClient.csproj.CopyComplete
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\obj\Release\OpenVPNClient.exe
+A:\OpenVPN\OpenVPNClient\OpenVPNClient\obj\Release\OpenVPNClient.pdb
