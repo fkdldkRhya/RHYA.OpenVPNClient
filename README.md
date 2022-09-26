@@ -5,6 +5,7 @@ RHYA.OpenVPNClient
 
 ## How to use RHYA.OpenVPNClient?
 **Setp1. RHYA.Network 통합 회원가입을 진행한다.**
+* [회원가입 바로 가기](https://rhya-network.kro.kr/RhyaNetwork/webpage/jsp/auth.v1/sign_up.jsp?rpid=12&ctoken=0)
 
 ## License
 MIT License
