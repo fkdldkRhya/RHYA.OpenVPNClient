@@ -3,6 +3,9 @@ RHYA.OpenVPNClient
 
 ![Main Image](main.png)
 
+## How to use RHYA.OpenVPNClient?
+Setp1. RHYA.Network 통합 회원가입을 진행한다.
+
 ## License
 MIT License
 
