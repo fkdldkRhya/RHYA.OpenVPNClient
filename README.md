@@ -6,6 +6,8 @@ RHYA.OpenVPNClient
 ## How to use RHYA.OpenVPNClient?
 **Setp1. RHYA.Network 통합 회원가입을 진행한다.**
 * [회원가입 바로 가기](https://rhya-network.kro.kr/RhyaNetwork/webpage/jsp/auth.v1/sign_up.jsp?rpid=12&ctoken=0)
+**Step2. 관리자에게 OpenVPN 사용 승인을 요청한다.
+**Step3. 승인이 완료되면 해당 계정으로 로그인을 진행한다.
 
 ## License
 MIT License
